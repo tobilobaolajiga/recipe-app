@@ -1,5 +1,5 @@
 import Veggie from "../components/Veggie"
-import Popular from "../components/popular"
+import Popular from "../components/Popular"
 import {motion, AnimatePresence} from 'framer-motion'
 
 const Home = () => {
